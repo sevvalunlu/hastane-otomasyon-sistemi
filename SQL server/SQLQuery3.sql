@@ -1,0 +1,5 @@
+insert into Tbl_Branslar (BransAd) values ('Dahiliye')
+insert into Tbl_Branslar (BransAd) values ('Göz Hastalýklarý')
+insert into Tbl_Branslar (BransAd) values ('Kardiyoloji')
+insert into Tbl_Branslar (BransAd) values ('Kulak Burun Boðaz')
+insert into Tbl_Branslar (BransAd) values ('Genel Cerrahi')
